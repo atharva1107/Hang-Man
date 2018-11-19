@@ -1,2 +1,3 @@
 # Hang-Man
-A python project to create the Hang Man game to test the vocabulary of the player.
+Hang man is a game that tests the vocabulary of the player.
+We have created a python project to make the game and test the vocabulary.
